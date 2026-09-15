@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "episodes": [
+    {
+      "schema": 1,
+      "date": "2026-09-15",
+      "guid": "morning-markets-2026-09-15",
+      "title": "Morning Markets \u2014 Tuesday, 15 September 2026",
+      "summary": "Spoken synthesis of the Tuesday, 15 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:53",
+      "duration_s": 353.3,
+      "bytes": 5653248,
+      "sha256": "81b472c18357b4ee27cf47f67834381f81d2b4772a98f174ed1e3093181a39f0",
+      "words": 982,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-15"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-15"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-14"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-15"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-15"
+        }
+      ],
+      "generated_at": "2026-09-15T09:09:23+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-09-14",
+      "guid": "morning-markets-2026-09-14",
+      "title": "Morning Markets \u2014 Monday, 14 September 2026",
+      "summary": "Spoken synthesis of the Monday, 14 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:29",
+      "duration_s": 328.7,
+      "bytes": 5259264,
+      "sha256": "ab46bd85ff9e2021a47e712fe909c9dd095619fe3a1dac420ea0e5f087cc733e",
+      "words": 963,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-14"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-14"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-11"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-14"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-14"
+        }
+      ],
+      "generated_at": "2026-09-14T09:06:52+00:00"
+    }
+  ]
+}
