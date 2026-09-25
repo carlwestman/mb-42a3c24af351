@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Morning Markets</title>
+    <link>https://carlwestman.github.io/mb-42a3c24af351/</link>
+    <description>A five-minute spoken synthesis of the morning market products — news, macro regime, intermarket tape, chart structure and the day's playbook — recorded every weekday before the European open. Private feed; not for distribution.</description>
+    <language>en-us</language>
+    <copyright>© Carl Westman</copyright>
+    <lastBuildDate>Fri, 25 Sep 2026 08:48:49 +0200</lastBuildDate>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://carlwestman.github.io/mb-42a3c24af351/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Carl Westman</itunes:author>
+    <itunes:summary>A five-minute spoken synthesis of the morning market products — news, macro regime, intermarket tape, chart structure and the day's playbook — recorded every weekday before the European open. Private feed; not for distribution.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Carl Westman</itunes:name>
+      <itunes:email>carl@wsvc.se</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://carlwestman.github.io/mb-42a3c24af351/cover.png"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <googleplay:block xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">yes</googleplay:block>
+    <item>
+      <title>Morning Markets — Friday, 25 September 2026</title>
+      <description>Spoken synthesis of the Friday, 25 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Friday, 25 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Fri, 25 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-25.mp3" length="4439808" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-25</guid>
+      <itunes:duration>4:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Markets — Thursday, 24 September 2026</title>
+      <description>Spoken synthesis of the Thursday, 24 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Thursday, 24 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-24.mp3" length="5049216" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-24</guid>
+      <itunes:duration>5:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Markets — Wednesday, 23 September 2026</title>
+      <description>Spoken synthesis of the Wednesday, 23 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Wednesday, 23 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Wed, 23 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-23.mp3" length="5071488" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-23</guid>
+      <itunes:duration>5:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Markets — Tuesday, 22 September 2026</title>
+      <description>Spoken synthesis of the Tuesday, 22 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Tuesday, 22 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Tue, 22 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-22.mp3" length="4587648" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-22</guid>
+      <itunes:duration>4:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Markets — Monday, 21 September 2026</title>
+      <description>Spoken synthesis of the Monday, 21 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Monday, 21 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-21.mp3" length="5063808" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-21</guid>
+      <itunes:duration>5:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Markets — Friday, 18 September 2026</title>
+      <description>Spoken synthesis of the Friday, 18 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Friday, 18 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Fri, 18 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-18.mp3" length="4873344" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-18</guid>
+      <itunes:duration>5:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Markets — Thursday, 17 September 2026</title>
+      <description>Spoken synthesis of the Thursday, 17 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Thursday, 17 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Thu, 17 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-17.mp3" length="4888320" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-17</guid>
+      <itunes:duration>5:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Markets — Wednesday, 16 September 2026</title>
+      <description>Spoken synthesis of the Wednesday, 16 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Wednesday, 16 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Wed, 16 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-16.mp3" length="5342592" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-16</guid>
+      <itunes:duration>5:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Markets — Tuesday, 15 September 2026</title>
+      <description>Spoken synthesis of the Tuesday, 15 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Tuesday, 15 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Tue, 15 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-15.mp3" length="5653248" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-15</guid>
+      <itunes:duration>5:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Markets — Monday, 14 September 2026</title>
+      <description>Spoken synthesis of the Monday, 14 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</description>
+      <itunes:summary>Spoken synthesis of the Monday, 14 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.</itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 06:45:00 +0200</pubDate>
+      <enclosure url="https://carlwestman.github.io/mb-42a3c24af351/episodes/2026-09-14.mp3" length="5259264" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-markets-2026-09-14</guid>
+      <itunes:duration>5:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
