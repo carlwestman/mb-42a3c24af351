@@ -1,0 +1,1115 @@
+{
+  "schema": 1,
+  "episodes": [
+    {
+      "schema": 1,
+      "date": "2026-10-30",
+      "guid": "morning-markets-2026-10-30",
+      "title": "Morning Markets \u2014 Friday, 30 October 2026",
+      "summary": "Spoken synthesis of the Friday, 30 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:26",
+      "duration_s": 325.9,
+      "bytes": 5214336,
+      "sha256": "eb51e6d386380db146584064587f23552ae02fa3f5a0fb6a160d2af4d0bde9ae",
+      "words": 910,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-30"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-30"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-29"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-30"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-30"
+        }
+      ],
+      "generated_at": "2026-10-30T06:51:41+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-29",
+      "guid": "morning-markets-2026-10-29",
+      "title": "Morning Markets \u2014 Thursday, 29 October 2026",
+      "summary": "Spoken synthesis of the Thursday, 29 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:02",
+      "duration_s": 301.9,
+      "bytes": 4829952,
+      "sha256": "aa18947b6c03da03a8afd77540f77ec58327edf2f92b477a4822966cf4facdb2",
+      "words": 859,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-29"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-29"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-27"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-29"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-29"
+        }
+      ],
+      "generated_at": "2026-10-29T06:50:18+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-28",
+      "guid": "morning-markets-2026-10-28",
+      "title": "Morning Markets \u2014 Wednesday, 28 October 2026",
+      "summary": "Spoken synthesis of the Wednesday, 28 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:48",
+      "duration_s": 288.0,
+      "bytes": 4607616,
+      "sha256": "63ed2fd3fa48151b92a5f8523bacd2a1dbe32ee3c58e99dad62f1dcf2d8abeb9",
+      "words": 788,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-28"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-28"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-27"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-28"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-28"
+        }
+      ],
+      "generated_at": "2026-10-28T06:51:03+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-27",
+      "guid": "morning-markets-2026-10-27",
+      "title": "Morning Markets \u2014 Tuesday, 27 October 2026",
+      "summary": "Spoken synthesis of the Tuesday, 27 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:41",
+      "duration_s": 281.5,
+      "bytes": 4503936,
+      "sha256": "c9deb2289b098c8cb2f44319b7e0ba9cf88335d4786b8a4ab86fb148ddc543a0",
+      "words": 807,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-27"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-27"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-26"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-27"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-27"
+        }
+      ],
+      "generated_at": "2026-10-27T06:51:00+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-26",
+      "guid": "morning-markets-2026-10-26",
+      "title": "Morning Markets \u2014 Monday, 26 October 2026",
+      "summary": "Spoken synthesis of the Monday, 26 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:56",
+      "duration_s": 296.3,
+      "bytes": 4740480,
+      "sha256": "e58f93cd1b4f07bbe7ea4004b649e023465a6ac7462443f5cded08aa16cbdf97",
+      "words": 863,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-26"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-26"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-23"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-26"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-26"
+        }
+      ],
+      "generated_at": "2026-10-26T06:51:30+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-23",
+      "guid": "morning-markets-2026-10-23",
+      "title": "Morning Markets \u2014 Friday, 23 October 2026",
+      "summary": "Spoken synthesis of the Friday, 23 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:07",
+      "duration_s": 307.4,
+      "bytes": 4917888,
+      "sha256": "9da6b9d52714ba8b666fd4ca6ac6be01f6c90dc973e8a2817316a8beec914c50",
+      "words": 854,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-23"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-23"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-22"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-23"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-23"
+        }
+      ],
+      "generated_at": "2026-10-23T06:51:44+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-22",
+      "guid": "morning-markets-2026-10-22",
+      "title": "Morning Markets \u2014 Thursday, 22 October 2026",
+      "summary": "Spoken synthesis of the Thursday, 22 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:57",
+      "duration_s": 296.6,
+      "bytes": 4746240,
+      "sha256": "0bda9d130049fb997ffe1ed9c879f180729db038947be2b12af7c912538cd574",
+      "words": 821,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-22"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-22"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-21"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-22"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-22"
+        }
+      ],
+      "generated_at": "2026-10-22T06:50:05+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-21",
+      "guid": "morning-markets-2026-10-21",
+      "title": "Morning Markets \u2014 Wednesday, 21 October 2026",
+      "summary": "Spoken synthesis of the Wednesday, 21 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:13",
+      "duration_s": 312.6,
+      "bytes": 5001984,
+      "sha256": "7be25b0fd3ea478c56c7ace996f57145e65fdadef56b8f38770a26b23182a114",
+      "words": 941,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-21"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-21"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-20"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-21"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-21"
+        }
+      ],
+      "generated_at": "2026-10-21T06:49:12+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-20",
+      "guid": "morning-markets-2026-10-20",
+      "title": "Morning Markets \u2014 Tuesday, 20 October 2026",
+      "summary": "Spoken synthesis of the Tuesday, 20 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:43",
+      "duration_s": 283.4,
+      "bytes": 4533888,
+      "sha256": "a168621d72d8a196bfae8ca7874decb0bb5e36842039d78a9608fa6c4f496482",
+      "words": 838,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-20"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-20"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-19"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-20"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-20"
+        }
+      ],
+      "generated_at": "2026-10-20T06:53:07+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-19",
+      "guid": "morning-markets-2026-10-19",
+      "title": "Morning Markets \u2014 Monday, 19 October 2026",
+      "summary": "Spoken synthesis of the Monday, 19 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:56",
+      "duration_s": 355.6,
+      "bytes": 5690112,
+      "sha256": "07f2c636cc09b95daed283c9d19abaa7a47b4fa0655b1f4efd169668a151803c",
+      "words": 1005,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-19"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-19"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-16"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-19"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-19"
+        }
+      ],
+      "generated_at": "2026-10-19T06:50:53+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-16",
+      "guid": "morning-markets-2026-10-16",
+      "title": "Morning Markets \u2014 Friday, 16 October 2026",
+      "summary": "Spoken synthesis of the Friday, 16 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:19",
+      "duration_s": 318.8,
+      "bytes": 5101440,
+      "sha256": "ab50c1b32e06d1b9810e9fa83db1e253a4ac271f984a14b661235959d0ec30ba",
+      "words": 883,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-16"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-16"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-15"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-16"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-16"
+        }
+      ],
+      "generated_at": "2026-10-16T06:49:52+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-15",
+      "guid": "morning-markets-2026-10-15",
+      "title": "Morning Markets \u2014 Thursday, 15 October 2026",
+      "summary": "Spoken synthesis of the Thursday, 15 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:42",
+      "duration_s": 342.2,
+      "bytes": 5475840,
+      "sha256": "27f291bc11f4eba89d2565b3d57d5ed8cbcd45f6d8477df8ad3c1e6b5e39ffd4",
+      "words": 969,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-15"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-15"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-15"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-15"
+        }
+      ],
+      "generated_at": "2026-10-15T06:49:47+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-14",
+      "guid": "morning-markets-2026-10-14",
+      "title": "Morning Markets \u2014 Wednesday, 14 October 2026",
+      "summary": "Spoken synthesis of the Wednesday, 14 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:45",
+      "duration_s": 284.5,
+      "bytes": 4552320,
+      "sha256": "4863ba9b7e3b35c331a3e5776d6d457dbc18e091ac32964e87f378c55ea88306",
+      "words": 831,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-13"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-14"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-14"
+        }
+      ],
+      "generated_at": "2026-10-14T06:49:11+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-13",
+      "guid": "morning-markets-2026-10-13",
+      "title": "Morning Markets \u2014 Tuesday, 13 October 2026",
+      "summary": "Spoken synthesis of the Tuesday, 13 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:12",
+      "duration_s": 312.4,
+      "bytes": 4998912,
+      "sha256": "f78dfc7645673dff4484ef42dcc08a07abcb3fd4051affe544ecda5edd16f4f2",
+      "words": 917,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-13"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-13"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-13"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-13"
+        }
+      ],
+      "generated_at": "2026-10-13T06:50:37+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-12",
+      "guid": "morning-markets-2026-10-12",
+      "title": "Morning Markets \u2014 Monday, 12 October 2026",
+      "summary": "Spoken synthesis of the Monday, 12 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:45",
+      "duration_s": 345.5,
+      "bytes": 5527680,
+      "sha256": "5052797c040e3a0e2e1a59c7f086a66aec1a4503c11669b0c8f4750f305cd096",
+      "words": 994,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-09"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-12"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-12"
+        }
+      ],
+      "generated_at": "2026-10-12T06:51:58+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-09",
+      "guid": "morning-markets-2026-10-09",
+      "title": "Morning Markets \u2014 Friday, 9 October 2026",
+      "summary": "Spoken synthesis of the Friday, 9 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:52",
+      "duration_s": 291.7,
+      "bytes": 4667136,
+      "sha256": "a4757cf6d2a800852d71a6f98e6c4baeb30c45dfb354b6a00a23ecdf255fe708",
+      "words": 874,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-09"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-09"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-08"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-09"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-09"
+        }
+      ],
+      "generated_at": "2026-10-09T06:52:24+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-08",
+      "guid": "morning-markets-2026-10-08",
+      "title": "Morning Markets \u2014 Thursday, 8 October 2026",
+      "summary": "Spoken synthesis of the Thursday, 8 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:11",
+      "duration_s": 310.6,
+      "bytes": 4969344,
+      "sha256": "c520ef9f8f6ba0541f3c2e025aae087df52f50d6b24438459da6389efa882807",
+      "words": 866,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-08"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-08"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-07"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-08"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-08"
+        }
+      ],
+      "generated_at": "2026-10-08T06:49:13+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-07",
+      "guid": "morning-markets-2026-10-07",
+      "title": "Morning Markets \u2014 Wednesday, 7 October 2026",
+      "summary": "Spoken synthesis of the Wednesday, 7 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:36",
+      "duration_s": 336.0,
+      "bytes": 5375232,
+      "sha256": "659e58be4d29b053de40a8314db9cd2b10c2245bfc617c262eb155270384d221",
+      "words": 994,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-07"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-07"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-06"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-07"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-07"
+        }
+      ],
+      "generated_at": "2026-10-07T06:50:22+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-06",
+      "guid": "morning-markets-2026-10-06",
+      "title": "Morning Markets \u2014 Tuesday, 6 October 2026",
+      "summary": "Spoken synthesis of the Tuesday, 6 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:05",
+      "duration_s": 304.5,
+      "bytes": 4872576,
+      "sha256": "0adfee7985d5402f9ca7488082de668e5ea318dbcf1521999cf6b1fd1815237c",
+      "words": 890,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-06"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-06"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-05"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-06"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-06"
+        }
+      ],
+      "generated_at": "2026-10-06T06:48:56+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-05",
+      "guid": "morning-markets-2026-10-05",
+      "title": "Morning Markets \u2014 Monday, 5 October 2026",
+      "summary": "Spoken synthesis of the Monday, 5 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:33",
+      "duration_s": 332.8,
+      "bytes": 5324544,
+      "sha256": "3a4a075af41c03c95c3c70a6b046310d7610c2f5cace36f6e7349961ba17bdb7",
+      "words": 987,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-05"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-05"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-02"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-05"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-05"
+        }
+      ],
+      "generated_at": "2026-10-05T06:49:28+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-02",
+      "guid": "morning-markets-2026-10-02",
+      "title": "Morning Markets \u2014 Friday, 2 October 2026",
+      "summary": "Spoken synthesis of the Friday, 2 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:15",
+      "duration_s": 315.3,
+      "bytes": 5044608,
+      "sha256": "f1b79337c735ae93d25c0749492247daa725a954eba1ce642d9f3095d3e16d32",
+      "words": 935,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-02"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-02"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-10-01"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-02"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-02"
+        }
+      ],
+      "generated_at": "2026-10-02T06:49:43+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-10-01",
+      "guid": "morning-markets-2026-10-01",
+      "title": "Morning Markets \u2014 Thursday, 1 October 2026",
+      "summary": "Spoken synthesis of the Thursday, 1 October 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:26",
+      "duration_s": 266.4,
+      "bytes": 4261632,
+      "sha256": "161b52e8d585366db5402af2ef99a1d47fb7b2891d09b071decc74673fd79208",
+      "words": 789,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-10-01"
+        },
+        {
+          "id": "macro",
+          "date": "2026-10-01"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-30"
+        },
+        {
+          "id": "charts",
+          "date": "2026-10-01"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-10-01"
+        }
+      ],
+      "generated_at": "2026-10-01T06:48:34+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-09-30",
+      "guid": "morning-markets-2026-09-30",
+      "title": "Morning Markets \u2014 Wednesday, 30 September 2026",
+      "summary": "Spoken synthesis of the Wednesday, 30 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:06",
+      "duration_s": 306.5,
+      "bytes": 4903680,
+      "sha256": "c9a275096fe2af74acd0ea70cb1ea7cbeed63a1cc7d1b9ab890a99f19d8c08a0",
+      "words": 894,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-30"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-30"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-29"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-30"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-30"
+        }
+      ],
+      "generated_at": "2026-09-30T06:48:25+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-09-29",
+      "guid": "morning-markets-2026-09-29",
+      "title": "Morning Markets \u2014 Tuesday, 29 September 2026",
+      "summary": "Spoken synthesis of the Tuesday, 29 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:52",
+      "duration_s": 292.2,
+      "bytes": 4674816,
+      "sha256": "79a2e914fbea7fccb5230fc33c24ae21d6db7667f706ee879893e26d12bf2b1a",
+      "words": 865,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-29"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-29"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-28"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-29"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-29"
+        }
+      ],
+      "generated_at": "2026-09-29T06:47:51+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-09-28",
+      "guid": "morning-markets-2026-09-28",
+      "title": "Morning Markets \u2014 Monday, 28 September 2026",
+      "summary": "Spoken synthesis of the Monday, 28 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:44",
+      "duration_s": 283.6,
+      "bytes": 4538112,
+      "sha256": "1745429a787a7aeb70379a34da60f486ea11dea01de821348b4cb002c0de697d",
+      "words": 844,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-28"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-28"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-25"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-28"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-28"
+        }
+      ],
+      "generated_at": "2026-09-28T06:48:04+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-09-25",
+      "guid": "morning-markets-2026-09-25",
+      "title": "Morning Markets \u2014 Friday, 25 September 2026",
+      "summary": "Spoken synthesis of the Friday, 25 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:37",
+      "duration_s": 277.5,
+      "bytes": 4439808,
+      "sha256": "52d9e18593cc8f46c06fe7ca9f50af0bb902149a19ce7a674d565164922076e1",
+      "words": 825,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-25"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-25"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-24"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-25"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-25"
+        }
+      ],
+      "generated_at": "2026-09-25T06:48:46+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-09-24",
+      "guid": "morning-markets-2026-09-24",
+      "title": "Morning Markets \u2014 Thursday, 24 September 2026",
+      "summary": "Spoken synthesis of the Thursday, 24 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:16",
+      "duration_s": 315.6,
+      "bytes": 5049216,
+      "sha256": "12ad5e806664508b6d355e49599b5f08b9df1d6eb70be46bcb9fa20572ee5295",
+      "words": 893,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-24"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-24"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-23"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-24"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-24"
+        }
+      ],
+      "generated_at": "2026-09-24T06:48:07+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-09-23",
+      "guid": "morning-markets-2026-09-23",
+      "title": "Morning Markets \u2014 Wednesday, 23 September 2026",
+      "summary": "Spoken synthesis of the Wednesday, 23 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:17",
+      "duration_s": 317.0,
+      "bytes": 5071488,
+      "sha256": "e74aeeeca8f2ab4b27aef703c1d7cbad9e2fbf1168e24c02b8b92a9aea9aecea",
+      "words": 929,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-23"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-23"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-22"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-23"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-23"
+        }
+      ],
+      "generated_at": "2026-09-23T06:50:09+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-09-22",
+      "guid": "morning-markets-2026-09-22",
+      "title": "Morning Markets \u2014 Tuesday, 22 September 2026",
+      "summary": "Spoken synthesis of the Tuesday, 22 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "4:47",
+      "duration_s": 286.7,
+      "bytes": 4587648,
+      "sha256": "2e1953bf435653cb7391bfa72232e469a8b2d907dfc60ab7e94714db3e0410ea",
+      "words": 881,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-22"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-22"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-21"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-22"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-22"
+        }
+      ],
+      "generated_at": "2026-09-22T06:48:13+00:00"
+    },
+    {
+      "schema": 1,
+      "date": "2026-09-21",
+      "guid": "morning-markets-2026-09-21",
+      "title": "Morning Markets \u2014 Monday, 21 September 2026",
+      "summary": "Spoken synthesis of the Monday, 21 September 2026 morning products: Market News, Macro Dashboard, Morning Intermarket, Chart Analysis, Daily Playbook.",
+      "duration": "5:16",
+      "duration_s": 316.5,
+      "bytes": 5063808,
+      "sha256": "e05b1cd43c4ff0e21cba2149b827e374639de1c0ba5616cfeab797781666d0dd",
+      "words": 906,
+      "voice": "onyx",
+      "tts_model": "gpt-4o-mini-tts",
+      "sources": [
+        {
+          "id": "news",
+          "date": "2026-09-21"
+        },
+        {
+          "id": "macro",
+          "date": "2026-09-21"
+        },
+        {
+          "id": "intermarket",
+          "date": "2026-09-18"
+        },
+        {
+          "id": "charts",
+          "date": "2026-09-21"
+        },
+        {
+          "id": "playbook",
+          "date": "2026-09-21"
+        }
+      ],
+      "generated_at": "2026-09-21T06:49:03+00:00"
+    }
+  ]
+}
